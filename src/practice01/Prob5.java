@@ -24,10 +24,10 @@ public class Prob5 {
 
 				}else if(a.charAt(1) == '3' || a.charAt(1) == '6' || a.charAt(1) == '9'){
 					System.out.println(a + "짝");
-				}
+
 
 			}
 
 		}
-	}
-}
+		}}}
+
